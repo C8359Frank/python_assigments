@@ -1,2 +1,2 @@
-# python_assigments_1
+# python_assigments
 medium
